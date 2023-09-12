@@ -1,0 +1,22 @@
+The queue is: true 
+
+The queue is: true $ 
+
+The queue is: true $ 34567 
+
+The queue is: true $ 34567 hello 
+
+true dequeued
+The queue is: $ 34567 hello 
+
+$ dequeued
+The queue is: 34567 hello 
+
+34567 dequeued
+The queue is: hello 
+
+hello dequeued
+Empty queue
+
+EmptyListException: The queue is empty
+

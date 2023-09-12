@@ -1,0 +1,19 @@
+The list is: true 
+
+The list is: $ true 
+
+The list is: $ true 34567 
+
+The list is: $ true 34567 hello 
+
+$ removed
+The list is: true 34567 hello 
+
+true removed
+The list is: 34567 hello 
+
+hello removed
+The list is: 34567 
+
+34567 removed
+Empty list

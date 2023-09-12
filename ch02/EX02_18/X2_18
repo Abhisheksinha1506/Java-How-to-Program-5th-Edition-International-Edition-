@@ -1,0 +1,28 @@
+Enter result (1=pass,2=fail): 1
+Enter result (1=pass,2=fail): 1
+Enter result (1=pass,2=fail): 1
+Enter result (1=pass,2=fail): 1
+Enter result (1=pass,2=fail): 1
+Enter result (1=pass,2=fail): 3
+Invalid input.
+Enter result (1=pass,2=fail): 3
+Invalid input.
+Enter result (1=pass,2=fail): 3
+Invalid input.
+Enter result (1=pass,2=fail): 3
+Invalid input.
+Enter result (1=pass,2=fail): 3
+Invalid input.
+Enter result (1=pass,2=fail): 3
+Invalid input.
+Enter result (1=pass,2=fail): 3
+Invalid input.
+Enter result (1=pass,2=fail): 3
+Invalid input.
+Enter result (1=pass,2=fail): 2
+Enter result (1=pass,2=fail): 1
+Enter result (1=pass,2=fail): 2
+Enter result (1=pass,2=fail): 1
+Enter result (1=pass,2=fail): 1
+Passed 8
+Failed 2

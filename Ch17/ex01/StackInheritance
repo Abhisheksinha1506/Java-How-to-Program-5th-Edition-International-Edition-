@@ -1,0 +1,22 @@
+The stack is: true 
+
+The stack is: $ true 
+
+The stack is: 34567 $ true 
+
+The stack is: hello 34567 $ true 
+
+hello popped
+The stack is: 34567 $ true 
+
+34567 popped
+The stack is: $ true 
+
+$ popped
+The stack is: true 
+
+true popped
+Empty stack
+
+EmptyListException: The stack is empty
+

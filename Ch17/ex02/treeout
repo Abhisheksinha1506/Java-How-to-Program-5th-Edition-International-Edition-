@@ -1,0 +1,11 @@
+Inserting the following values: 
+39 69 94 47 50 72 55 41 97 73 
+
+Preorder traversal
+39 69 47 41 50 55 94 72 73 97 
+
+Inorder traversal
+39 41 47 50 55 69 72 73 94 97 
+
+Postorder traversal
+41 55 50 47 73 72 97 94 69 39 
